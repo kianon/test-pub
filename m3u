@@ -44,11 +44,3 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5068
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_ott.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",ASTRO AEC
-https://linears-playback.astro.com.my/vsg/41kg41I1M694jfjnbJ3EsM40ofoAmrJgM4Oz6LM1i52B0=UfAt/dash-wv/jitp-dashisowm/2400/default_ott.mpd?PID=&PAID=2400&deviceIdType=%5BdevIdType%5D&deviceId=ec3603f40ba160a53f95fee09084b4a0&appId=%5BappId%5D&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-linear-f3de6f15-3f7a-4c2e-b726-c8afc39e57c3&optin=true&hhid=2e7ca015840b806ae16c36cfba102838&kvp=lang%7Echi&kvp=genre%7EHD%2CCHINESE&daiEnabled=true
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro HHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec3603f40ba160a53f95fee09084b4a0:2e7ca015840b806ae16c36cfba102838
-https://linears-playback.astro.com.my/vsg/41Jfldlup1tOl-OJ_PD3-FoUINMxikd5IL-3_MGkmo-8E=vYio/dash-wv/jitp-linearwm/2308/default_ott.mpd
