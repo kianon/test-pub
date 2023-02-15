@@ -47,10 +47,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",ASTRO AEC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2400
+#KODIPROP:inputstream.adaptive.license_key=ec3603f40ba160a53f95fee09084b4a0:2e7ca015840b806ae16c36cfba102838
 https://linears-playback.astro.com.my/vsg/41kg41I1M694jfjnbJ3EsM48f2HPOtPqmj5IhX0h59c3M=ItTC/dash-wv/jitp-dashisowm/2400/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Sport",Astro HHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2308
+#KODIPROP:inputstream.adaptive.license_key=ec3603f40ba160a53f95fee09084b4a0:2e7ca015840b806ae16c36cfba102838
 https://linears-playback.astro.com.my/vsg/41Jfldlup1tOl-OJ_PD3-FoUINMxikd5IL-3_MGkmo-8E=vYio/dash-wv/jitp-linearwm/2308/default_ott.mpd
